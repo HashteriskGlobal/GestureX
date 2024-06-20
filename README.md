@@ -2,11 +2,11 @@
 
 GestureX unleashes the power of hand gestures to control your computing experience with unparalleled ease and precision. Leveraging the advanced capabilities of OpenCV, this innovation offers a seamless interface between human motion and digital response, essentially transforming your mere hand movements into a commanding tool for computer navigation and control.
 
-![GestureX](/assets/ges.jpg)
+![GestureX](ges.jpg)
 
 ## Project Overview
 
-At the core of GestureX lies a highly responsive hand-tracking module that harnesses computer vision technologies to interpret physical hand gestures, providing a natural and intuitive user interface. With a simple wave of a hand, users can perform a multitude of tasks without the need for traditional input devices like a mouse or keyboard.
+GestureX revolutionizes user interaction with its cutting-edge hand-tracking module, leveraging advanced computer vision technology to decode physical hand gestures. This creates an intuitive and seamless user interface, allowing users to perform a wide array of tasks with a mere wave of their hand, eliminating the need for traditional input devices such as a mouse or keyboard.
 
 ### Key Features
 
@@ -54,11 +54,29 @@ For detailed understanding, here's a brief on the main modules:
   - HandTrackingModule.py: This module is central to the project, incorporating Mediapipe and OpenCV to track hand landmarks in real-time and provide necessary coordinates for gesture recognition.
   - gestureX.py: Built upon the HandTracking module, it interprets the hand landmarks to perform various control actions like mouse movement, clicks, and executing system commands.
 
-## Contributions and Support
-Your contributions are welcome! If you would like to contribute, fork the repository, make changes, and create a pull request with your improvements. For any support or queries, raise an issue in the GitHub issue tracker.
+## Contributions
+Your contributions are welcome! If you would like to contribute, please fork the repository, make changes, and create a pull request with your improvements.
+
+Contribution Steps
+
+- Fork the repository
+- Create your feature branch (git checkout -b feature/AmazingFeature)
+- Commit your changes (git commit -m 'Add some AmazingFeature')
+- Push to the branch (git push origin feature/AmazingFeature)
+- Open a pull request
+- For any support or queries, raise an issue in the GitHub issue tracker.
+
+
+## Contact Information
+For assistance or to provide feedback, reach out to us at [contact@hashteriskglobal.com](mailto:contact@hashteriskglobal.com).
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 Special thanks to all the contributors and open-source libraries that made this project possible.
+
+## Need Help or Have a Feature Request?
+We're here to help! If you have any support queries or suggestions for new features, please file an issue on our GitHub repository. We'll get back to you as soon as possible.
+
 
